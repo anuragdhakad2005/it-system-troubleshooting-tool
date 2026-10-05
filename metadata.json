@@ -1,0 +1,6 @@
+{
+  "name": "IT System Troubleshooting & Support Tool",
+  "description": "A web-based IT support utility designed to provide basic system information, network status, hardware-related browser information, and troubleshooting guidance for common IT problems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
